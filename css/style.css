@@ -9,3 +9,7 @@
 img {
   display: none;
 }
+
+canvas {
+  background-color: #ffeeff;
+}
